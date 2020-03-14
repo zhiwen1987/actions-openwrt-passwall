@@ -2,7 +2,7 @@
 #=================================================
 # Description: DIY script
 # Lisence: MIT
-# Author: P3TERX
+# Author: 冰浪
 # Blog: https://www.kefu.me
 #=================================================
 # Modify default IP
